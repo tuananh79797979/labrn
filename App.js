@@ -1,8 +1,8 @@
 import React from 'react';
 import {Text} from 'react-native';
 
-const App = () => {
-  return <Text>Hello, I am your cat!</Text>;
+const Mylab3 = () => {
+  return <Mylab3/>;
 };
 
-export default App;
+export default Mylab3;
