@@ -1,8 +1,13 @@
 import React from 'react';
-import {Text} from 'react-native';
 
-const Mylab3 = () => {
-  return <Mylab3/>;
+import Lab3_1 from './src/screens/Lab3_1';
+import Lab4 from './src/screens/Lab4';
+
+const App = () => {
+  return(
+  <Lab4/>
+  
+  ) 
 };
 
-export default Mylab3;
+export default App;
