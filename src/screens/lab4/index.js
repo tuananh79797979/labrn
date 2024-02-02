@@ -1,13 +1,14 @@
 import React from 'react';
 import { View } from 'react-native';
-import ListCourre from '../../list';
-
+import ListCourre from '../../compoment/list';
 
 const Lab4 = () => {
     return (
         <View>
-            <Text>úihuidshu</Text>
+            <ListCourre></ListCourre>
+
         </View>
     );
 };
+
 export default React.memo(Lab4);

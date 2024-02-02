@@ -7,9 +7,10 @@ export const styles = StyleSheet.create({
     },
     bai1: {
       backgroundColor: '#4e9dfc',
-      margin: 20,
+      margin: 10,
       padding: 10,
       flex: 2,
+      
       borderRadius: 10,
       borderRightColor: 'red',
       borderBottomColor: 'red',
@@ -17,7 +18,7 @@ export const styles = StyleSheet.create({
     },
     bai2: {
       backgroundColor: 'white',
-      margin: 20,
+      margin: 10,
       padding: 10,
       flex: 1
     },
